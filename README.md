@@ -197,3 +197,6 @@ This repository serves as the official landing page for Spicy Pumpkin. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spicy Pumpkin today!**
+
+---
+**Last updated:** 2026-11-07 07:58:42 UTC
